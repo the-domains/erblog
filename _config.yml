@@ -1,0 +1,28 @@
+name: erblog
+favicon: null
+layout_spectrum: 0.1228393882047385
+typography_spectrum: 0.7778314370661974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.07020016619935632
+  lightness: 0.7474390685092658
+  saturation: 0.2998285035137087
+  rhythmicContrast: 0.959267291938886
+purpose: []
