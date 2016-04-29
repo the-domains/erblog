@@ -1,7 +1,7 @@
 name: erblog
 favicon: null
-layout_spectrum: 0.1228393882047385
-typography_spectrum: 0.7778314370661974
+layout_spectrum: 0.25065
+typography_spectrum: 0.75022
 cta:
   domain: null
   bucket: null
